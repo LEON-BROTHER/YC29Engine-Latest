@@ -1,4 +1,10 @@
-2.3.2 - FIXING DEEZ NUTS
+2.3.3 - FIXING SOME ISSUES (Based of 2.3.1 Source Code lol)
+- /!\ Fixed some menus not being able to load correctly
+- Fixed Character Scale Problem
+- Fixed Toolbox Mod's Title and Description are refreshing.
+- Added lil feature to the Character Editors Animation thing (for lazy people lmao).
+
+2.3.2 - FIXING DEEZ NUTS (NOT INCLUDED OR DOES NOT EXIST)
 - /!\ Fixed some menus not being able to load correctly
 
 2.3.1 - DEEZ NUTS
@@ -14,11 +20,3 @@
 - Fixed Pico's camera position
 - Fixed Medals not showing correctly
 
-2.3.0 - THE POLISHING UPDATE
-- /!\ Added .ycemod file extension
-- /!\ Added a new "Optimize Sparrow Atlases" option (BETA) and passed every atlases through it (thats why theres so many files to redownload)
-- /!\ Added ability to create mod releases in the engine itself
-- Fixed Lua related stuff
-- Fixed a bug where certain mods' save files didnt worked
-- Fixed Week 7's Stress MP4 Cutscene crashing
-- Added coconut.png

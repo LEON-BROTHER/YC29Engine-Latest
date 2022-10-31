@@ -83,7 +83,6 @@
 				"stages/limo",
 				"modcharts/milf"
 			],
-			"name": "MILF",
 			"difficulties": [
 				{
 					"scripts": [
@@ -92,7 +91,8 @@
 					],
 					"name": "sexy"
 				}
-			]
+			],
+			"name": "MILF"
 		},
 		{
 			"scripts": [
@@ -101,63 +101,63 @@
 			"name": "Cocoa"
 		},
 		{
+			"end_cutscene": "cutscenes/week5-eggnog",
 			"scripts": [
 				"stages/mall"
 			],
-			"end_cutscene": "cutscenes/week5-eggnog",
 			"name": "Eggnog"
 		},
 		{
+			"cutscene": "cutscenes/week5-monster",
 			"scripts": [
 				"stages/mall-evil"
 			],
-			"cutscene": "cutscenes/week5-monster",
 			"name": "Winter-Horrorland"
 		},
 		{
+			"cutscene": "cutscenes/weeb-dialogue",
 			"scripts": [
 				"stages/school",
 				"modcharts/week6"
 			],
-			"cutscene": "cutscenes/weeb-dialogue",
 			"name": "Senpai"
 		},
 		{
+			"cutscene": "cutscenes/weeb-dialogue",
 			"scripts": [
 				"stages/school",
 				"modcharts/week6"
 			],
-			"cutscene": "cutscenes/weeb-dialogue",
 			"name": "Roses"
 		},
 		{
+			"cutscene": "cutscenes/weeb-dialogue",
 			"scripts": [
 				"stages/school-evil",
 				"modcharts/week6"
 			],
-			"cutscene": "cutscenes/weeb-dialogue",
 			"name": "Thorns"
 		},
 		{
+			"cutscene": "cutscenes/ugh-cutscene",
 			"scripts": [
 				"stages/tank"
 			],
-			"cutscene": "cutscenes/ugh-cutscene",
 			"name": "Ugh"
 		},
 		{
+			"cutscene": "cutscenes/guns-cutscene",
 			"scripts": [
 				"stages/tank"
 			],
-			"cutscene": "cutscenes/guns-cutscene",
 			"name": "Guns"
 		},
 		{
+			"cutscene": "cutscenes/stress-cutscene",
 			"scripts": [
 				"stages/tank",
 				"Friday Night Funkin':/modcharts/stress"
 			],
-			"cutscene": "cutscenes/stress-cutscene",
 			"name": "Stress"
 		},
 		{
